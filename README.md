@@ -1,7 +1,7 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## Name : ARUL KUMARAN S A
-## Register Number:212224040030
+## Register Number : 212224040030
 
 ## Date:19/05/2026
 
